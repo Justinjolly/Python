@@ -1,0 +1,10 @@
+a = 'merry christmas'
+print("HELLO".capitalize())
+print("HELLO".lower())
+print(a.upper())
+print(a.startswith('me'))
+print(a.endswith('me'))
+print(a.strip('mas'))
+print("peanut".replace('pea','coco'))
+print(a.count('r'))
+print('india is my country'.split())
